@@ -1,4 +1,6 @@
-# 3D Max Modelling
+# 3DS Max
 
-### [Car](./car)
+### [Modelling](./Modelling)
+
+### [Animation](./Animation)
 
