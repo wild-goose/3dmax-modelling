@@ -1,3 +1,3 @@
 # Car
 
-![car](.\car.png)
+![car](./car.png)
